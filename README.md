@@ -6,9 +6,9 @@ Aplicação desenvolvida durante a a primeira fase da B8one Academy.
 </p>
 
 <h1 align="center">
-    <img alt="logo" title="#logo" src="./assets/img/git01.png"  height="300" width="500" />
+    <img alt="logo" title="#logo" src="./assets/img/git01.png"  height="400" width="600" />
 
-  <img alt="logo" title="#logo" src="./assets/img/git.png"  height="300" width="500" />
+  <img alt="logo" title="#logo" src="./assets/img/git.png"  height="400" width="600" />
 
 </h1>
 
